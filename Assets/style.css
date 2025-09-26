@@ -1,3 +1,11 @@
+#tutto{
+        width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 5px;
+    text-align: center;
+    margin:0%;
+}
 #primo-blocco{
     background-image: url("https://media.discordapp.net/attachments/1418251127031468042/1421051905550843945/banner.jpg?ex=68d7a138&is=68d64fb8&hm=5d42986ce3842126373711bf115b36a77c3c294a8c9c77d448aee2697aaed68b&=&format=webp&width=816&height=544");
 }
@@ -10,6 +18,26 @@
     color:rgb(78, 78, 240);
     font-weight: bold;
 }
+.testo-grosso{
+    font-size: x-large;
+    font-weight: bolder;
+}
+#sfondo-rosso{
+    color:white;
+    background-color: rgb(252, 49, 23);
+}
 .corsivo{
     font-style: italic;
 }
+.testo-immagine{
+    border: 2px solid #524d4d;
+    width: auto;
+    padding: 0%;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+     width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 5px;
+    text-align: center;
+    margin:0%;}
