@@ -4,11 +4,12 @@
  margin:1rem auto;
   height: auto;
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
   text-align: center;
 }
 #primo-blocco {
   background-image: url("https://media.discordapp.net/attachments/1418251127031468042/1421051905550843945/banner.jpg?ex=68d7a138&is=68d64fb8&hm=5d42986ce3842126373711bf115b36a77c3c294a8c9c77d448aee2697aaed68b&=&format=webp&width=816&height=544");
+padding-bottom: 25px;
 }
 #button {
   background-color: #f04c2f;
@@ -28,20 +29,17 @@
 #sfondo-rosso {
   color: white;
   background-color: rgb(252, 49, 23);
+  padding-bottom: 25px;
 }
 .corsivo {
   font-style: italic;
 }
 .testo-immagine {
   border: 1px solid #dee1e3;
-  width: auto;
-  border-bottom-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  width: 100%;
-  height: auto;
-  display: block;
-  margin-bottom: 5px;
   text-align: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-bottom: 25px;
 }
 a:link {
   color: #c8e7f0;
@@ -57,6 +55,7 @@ body {
 footer {
   background-color: #25a2c3;
   color: #c8e7f0;
+  padding-bottom: 25px;
 }
 h1 h3 {
   color: #25a2c3;
@@ -70,4 +69,14 @@ p {
 #sfondo-logo {
   background-color: black;
 }
+#immagine-rotonda{
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
 
