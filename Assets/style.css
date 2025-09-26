@@ -1,43 +1,73 @@
-#tutto{
-        width: 100%;
-    height: auto;
-    display: block;
-    margin-bottom: 5px;
-    text-align: center;
-    margin:0%;
+#tutto {
+
+  width: 19%;
+ margin:1rem auto;
+  height: auto;
+  display: block;
+  margin-bottom: 5px;
+  text-align: center;
 }
-#primo-blocco{
-    background-image: url("https://media.discordapp.net/attachments/1418251127031468042/1421051905550843945/banner.jpg?ex=68d7a138&is=68d64fb8&hm=5d42986ce3842126373711bf115b36a77c3c294a8c9c77d448aee2697aaed68b&=&format=webp&width=816&height=544");
+#primo-blocco {
+  background-image: url("https://media.discordapp.net/attachments/1418251127031468042/1421051905550843945/banner.jpg?ex=68d7a138&is=68d64fb8&hm=5d42986ce3842126373711bf115b36a77c3c294a8c9c77d448aee2697aaed68b&=&format=webp&width=816&height=544");
 }
-#button{
- background-color: orangered;
- color:whitesmoke;
+#button {
+  background-color: #f04c2f;
+  font-family: "monsterrat", "sans-serif";
+  font-weight: bold;
+  color: whitesmoke;
 }
-.testo-grassetto{
-    font-size: larger;
-    color:rgb(78, 78, 240);
-    font-weight: bold;
+.testo-grassetto {
+  font-size: larger;
+  color: rgb(78, 78, 240);
+  font-weight: bold;
 }
-.testo-grosso{
-    font-size: x-large;
-    font-weight: bolder;
+.testo-grosso {
+  font-size: 1, 2em;
+  font-weight: bolder;
 }
-#sfondo-rosso{
-    color:white;
-    background-color: rgb(252, 49, 23);
+#sfondo-rosso {
+  color: white;
+  background-color: rgb(252, 49, 23);
 }
-.corsivo{
-    font-style: italic;
+.corsivo {
+  font-style: italic;
 }
-.testo-immagine{
-    border: 2px solid #524d4d;
-    width: auto;
-    padding: 0%;
-    border-bottom-right-radius: 8px;
-    border-bottom-left-radius: 8px;
-     width: 100%;
-    height: auto;
-    display: block;
-    margin-bottom: 5px;
-    text-align: center;
-    margin:0%;}
+.testo-immagine {
+  border: 1px solid #dee1e3;
+  width: auto;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 5px;
+  text-align: center;
+}
+a:link {
+  color: #c8e7f0;
+}
+body {
+  color: #393d41;
+  font-size: 1.2rem;
+  font-family: "montserrat", "family";
+  font-weight: bold;
+  line-height: 1, 5;
+}
+
+footer {
+  background-color: #25a2c3;
+  color: #c8e7f0;
+}
+h1 h3 {
+  color: #25a2c3;
+  font-family: "monsterrat", "sans-serif";
+  font-weight: bold;
+  line-height: 1, 5em;
+}
+p {
+  font-size: medium;
+}
+#sfondo-logo {
+  background-color: black;
+}
+
